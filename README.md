@@ -1,4 +1,6 @@
-# My name is Andrew, but my online friends know me as Evident. I have over 20 years of IT operations experience, and spend my free time leaning and building things for fun for fun, board gaming, exploring the outdoors of the PNW with my family. I also volunteer for various boardgame meetup groups around Portland. I recently have been working on tabletop gaming hardware, small web tools, and the occasional open-source contribution. Based in Portland, OR.
+# Welcome to my Github Page!
+
+My name is Andrew, but my online friends know me as Evident. I have over 20 years of IT operations experience, and spend my free time leaning and building things for fun for fun, board gaming, exploring the outdoors of the PNW with my family. I also volunteer for various boardgame meetup groups around Portland. I recently have been working on tabletop gaming hardware, small web tools, and the occasional open-source contribution. Based in Portland, OR.
 
 ## Pinned repositories
 
