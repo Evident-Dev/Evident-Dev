@@ -4,7 +4,7 @@ My name is Andrew, but my online friends know me as Evident. I have over 20 year
 
 ## Pinned repositories
 
-- **TI4-LED-Riser-Table** + **TI4-Hex-Web-Visualizer** — Arduino Giga R1 firmware and a companion SVG web viewer for a 61-hex Twilight Imperium 4 LED gaming table I built for my group
+- **TI4-LED-Riser-Table** + **TI4-Hex-Web-Visualizer** — ESP32-s3 firmware and a companion SVG web viewer for a 61-hex Twilight Imperium 4 LED gaming table I built for my group
 - **Duty** — a C# mod I wrote for a video game
 - **gameconCarpoolingMap** — a Google Forms-driven carpool map for a regional gaming convention
 - **Ultimaker/Cura** — merged pull request adding Elegoo Neptune 4 Pro printer support
